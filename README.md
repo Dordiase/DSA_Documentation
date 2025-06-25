@@ -1,4 +1,5 @@
-# DSA_Documentation
+# DSA DOCUMENTATION
 This is where i started my portfolio building while taking my data Analysis class with the incubator
-## DSA Documentation
-### PROJECT OVER VIEW
+it stated with Mastery classes on Digital Transformation, POrtfolio building, Generative AI, and Breaking into Tech.
+
+
